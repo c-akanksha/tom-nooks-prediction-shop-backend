@@ -33,7 +33,7 @@ origins = [
     "http://127.0.0.1:3000",
     # GitHub Pages
     "https://c-akanksha.github.io",
-    "https://c-akanksha.github.io/nLog",
+    "https://c-akanksha.github.io/tom-nooks-prediction-shop",
 ]
 
 app.add_middleware(
